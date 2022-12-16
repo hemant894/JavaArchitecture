@@ -8,6 +8,7 @@ public class JavaArchitecture {
         System.out.println(" Variables are nothing but reserved memory locations to store data values by using this values we are achieving the project requirements. This can be any kind of information ranging from texts , numbers , sentences etc.");
         System.out.println(" This means that when you create a variable you reserve some space in the memory. A variable thus has a data type.");
         System.out.println(" In simple words we can say variables are containers that holds the data.");
+        System.out.println(" Variable Declaration and initialisation ");
 
 
     }
